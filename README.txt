@@ -1,9 +1,9 @@
 »»README.txt
 
-A PYTHON RPG
+THE DIAMOND ROCKS
 
 
-Made by Py_hacker. Only Py_hacker can do what he wants with that. In other words: copyright Py_hacker
+Made by me (Py_hacker). Only I can do what I want with that. In other words: copyright Py_hacker
 
 To play this RPG, you WILL need Pygame, Python (Obviously) and everything Pygame needs to run. If not sure of what to download, download what you need depending of 
 what you are using (Linux, Windows, etc.) here: www.manning.com/sande
